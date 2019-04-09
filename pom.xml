@@ -7,7 +7,7 @@
   <description>jmx-json-javaagent</description>
   <properties>
     <jdkLevel>1.7</jdkLevel>
-    <jetty.version>9.4.8.v20171121</jetty.version>
+    <jetty.version>[9.4.12.v20180830,)</jetty.version>
   </properties>
   <dependencies>
       <dependency>
